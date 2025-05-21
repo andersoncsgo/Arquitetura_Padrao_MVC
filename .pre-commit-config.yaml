@@ -13,5 +13,7 @@ repos:
             "--rcfile=.pylintrc",
             "--load-plugins=pylint.extensions.docparams",
           ]
-        additional_dependencies:
+        additional_dependencies: 
           - pylint
+          - sqlalchemy
+          - pytest
