@@ -17,3 +17,4 @@ repos:
           - pylint
           - sqlalchemy
           - pytest
+          - mock-alchemy  # <-- adicionado
