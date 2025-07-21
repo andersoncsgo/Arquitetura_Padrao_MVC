@@ -2,3 +2,4 @@ venv
 storege.db
 **/__pycache__
 .pytest_cache
+/Arquitetura_Padrao_MVC
